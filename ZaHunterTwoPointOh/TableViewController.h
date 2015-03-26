@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  ZaHunterTwoPointOh
 //
 //  Created by Jen Kelley on 3/25/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UIViewController
 
 @end
-
